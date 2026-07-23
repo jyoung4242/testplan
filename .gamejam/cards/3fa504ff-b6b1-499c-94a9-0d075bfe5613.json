@@ -1,10 +1,15 @@
 {
   "id": "3fa504ff-b6b1-499c-94a9-0d075bfe5613",
   "title": "card",
-  "status": "done",
-  "description": "",
-  "tags": [],
-  "assignee": null,
+  "status": "in-progress",
+  "description": "Chadwick this is now your task",
+  "tags": [
+    "this",
+    "is",
+    "cool"
+  ],
+  "assignee": "cdelstad",
   "createdAt": "2026-07-23T10:36:47.410Z",
-  "updatedAt": "2026-07-23T10:36:51.551Z"
+  "updatedAt": "2026-07-23T16:38:57.258Z",
+  "trackingIssueNumber": 2
 }
