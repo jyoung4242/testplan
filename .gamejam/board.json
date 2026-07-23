@@ -4,14 +4,15 @@
       "id": "backlog",
       "status": "backlog",
       "cardIds": [
-        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97",
         "db72e54a-37bc-41bd-bc86-cc0863371428"
       ]
     },
     {
       "id": "in-progress",
       "status": "in-progress",
-      "cardIds": []
+      "cardIds": [
+        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97"
+      ]
     },
     {
       "id": "blocked",
