@@ -10,9 +10,7 @@
     {
       "id": "in-progress",
       "status": "in-progress",
-      "cardIds": [
-        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97"
-      ]
+      "cardIds": []
     },
     {
       "id": "blocked",
@@ -22,7 +20,9 @@
     {
       "id": "done",
       "status": "done",
-      "cardIds": []
+      "cardIds": [
+        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97"
+      ]
     }
   ]
 }
