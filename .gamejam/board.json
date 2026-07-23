@@ -1,3 +1,24 @@
 {
-  "columns": []
+  "columns": [
+    {
+      "id": "backlog",
+      "status": "backlog",
+      "cardIds": []
+    },
+    {
+      "id": "in-progress",
+      "status": "in-progress",
+      "cardIds": []
+    },
+    {
+      "id": "blocked",
+      "status": "blocked",
+      "cardIds": []
+    },
+    {
+      "id": "done",
+      "status": "done",
+      "cardIds": []
+    }
+  ]
 }
