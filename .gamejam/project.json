@@ -1,0 +1,13 @@
+{
+  "id": "aa8703a7-2b0c-420a-a0d9-2ec0e7566085",
+  "name": "TestProjectRepo",
+  "description": "Test Project Repo Desciprtion",
+  "jam": "LudemDare",
+  "theme": "MakeItWork",
+  "createdAt": "2026-07-23T20:15:28.264Z",
+  "storage": {
+    "kind": "github",
+    "githubOwner": "jyoung4242",
+    "githubRepo": "testplan"
+  }
+}
