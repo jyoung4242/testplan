@@ -19,12 +19,13 @@
       "id": "done",
       "status": "done",
       "cardIds": [
-        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97",
         "db72e54a-37bc-41bd-bc86-cc0863371428",
         "3fa504ff-b6b1-499c-94a9-0d075bfe5613",
         "2cf0fd20-b667-4c1d-827b-2c902c9b4cad",
         "049245f3-f377-46d0-9531-2e20ec0a1b96",
-        "e322628d-8a28-43b6-b0ba-3f42cced79d6"
+        "e322628d-8a28-43b6-b0ba-3f42cced79d6",
+        "9e5c677e-f19d-473d-81ca-d5b3d59cbf97",
+        "98099b18-0f57-4d1f-942c-754c2a8abb5d"
       ]
     }
   ]
