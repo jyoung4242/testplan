@@ -1,10 +1,15 @@
 {
   "id": "db72e54a-37bc-41bd-bc86-cc0863371428",
   "title": "newcard2",
-  "status": "blocked",
-  "description": "",
-  "tags": [],
-  "assignee": null,
+  "status": "in-progress",
+  "description": "hey Eric this is your task now",
+  "tags": [
+    "code",
+    "is",
+    "life"
+  ],
+  "assignee": "eonarheim",
   "createdAt": "2026-07-23T09:42:32.164Z",
-  "updatedAt": "2026-07-23T11:32:02.385Z"
+  "updatedAt": "2026-07-23T16:35:06.779Z",
+  "trackingIssueNumber": 1
 }
