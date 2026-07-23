@@ -1,0 +1,13 @@
+{
+  "id": "fde78c7a-217c-46fd-9005-a6351bb1a2bd",
+  "name": "testplan",
+  "description": "tic tac toe",
+  "jam": "mydumbjam",
+  "theme": "spinning",
+  "createdAt": "2026-07-23T03:14:18.703Z",
+  "storage": {
+    "kind": "github",
+    "githubOwner": "jyoung4242",
+    "githubRepo": "testplan"
+  }
+}
