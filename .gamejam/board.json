@@ -2,28 +2,19 @@
   "columns": [
     {
       "id": "backlog",
-      "status": "backlog",
-      "cardIds": [
-        "af125fb8-8bef-45f6-9d2d-e8eb5d81cc84"
-      ]
+      "status": "backlog"
     },
     {
       "id": "in-progress",
-      "status": "in-progress",
-      "cardIds": [
-        "6f13834c-2664-4b29-9eec-be85250ff2ea",
-        "bbe79dd1-0ea7-4243-a74c-eb02600a012c"
-      ]
+      "status": "in-progress"
     },
     {
       "id": "blocked",
-      "status": "blocked",
-      "cardIds": []
+      "status": "blocked"
     },
     {
       "id": "done",
-      "status": "done",
-      "cardIds": []
+      "status": "done"
     }
   ]
 }
